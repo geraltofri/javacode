@@ -19,7 +19,8 @@ public class my1 {
 	//swapnumber() ;
 		
 		//nearestpalindrome();
-		   charadd();
+		  // charadd();
+		   github();
 	}
 	
 	public static void charadd() {
@@ -100,7 +101,7 @@ public class my1 {
 	}
 	
 	
-	public void github(){
+	public static void github(){
 	
 	 System.out.println("this was written in github");
 	}
