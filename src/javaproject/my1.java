@@ -100,4 +100,10 @@ public class my1 {
 	}
 	
 	
+	public void github(){
+	
+	 System.out.println("this was written in github");
+	}
+	
+	
 }
