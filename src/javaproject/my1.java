@@ -19,7 +19,7 @@ public class my1 {
 	//swapnumber() ;
 		
 		//nearestpalindrome();
-		charadd();
+		   charadd();
 	}
 	
 	public static void charadd() {
@@ -27,7 +27,7 @@ public class my1 {
 		char b='0';
 		
 		System.out.println(a-b);
-		System.out.println((int)a +" "+ (int)b);
+		System.out.println((int)a +" "+ (int)b); 
 		
 		
 	}
